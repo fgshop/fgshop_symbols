@@ -1,5 +1,5 @@
 # fgshop_symbols
-A collection of symbol images of all cryptocurrencies developed by fgshop
+A collection of symbol images of all cryptocurrencies developed by fgshop and symbol images of general cryptocurrencies
 
 # list
 * default ![](https://raw.githubusercontent.com/fgshop/fgshop_symbols/main/symbols/40x40/default.png)
