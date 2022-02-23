@@ -2,8 +2,8 @@
 A collection of symbol images of all cryptocurrencies developed by fgshop and symbol images of general cryptocurrencies
 
 # icon url
-jsdelivr.net : https://cdn.jsdelivr.net/gh/fgshop/fgshop_symbols@main/symbols/40x40/{SYMBOL}.png 
-raw github : https://raw.githubusercontent.com/fgshop/fgshop_symbols/main/symbols/40x40/{SYMBOL}.png
+* jsdelivr.net : https://cdn.jsdelivr.net/gh/fgshop/fgshop_symbols@main/symbols/40x40/{SYMBOL}.png 
+* raw github : https://raw.githubusercontent.com/fgshop/fgshop_symbols/main/symbols/40x40/{SYMBOL}.png
 
 # list
 | Symbol | Icon 40x40 | Icon 32x32 |
